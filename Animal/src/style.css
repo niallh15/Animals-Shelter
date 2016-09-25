@@ -1,0 +1,33 @@
+.root{
+    -fx-background-color: #383838;
+}
+
+.button{
+    -fx-background-color: #AB4642;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+.button-blue{
+    -fx-background-color: #7cafc2;
+    -fx-text-fill: #FFFFFF;
+    -fx-background-radius: 4;
+}
+#bold-label{
+    -fx-font-weight: bold;
+}
+.fileMenu{
+    -fx-background-color: #000000;
+}
+
+.label{
+ -fx-font: 20px Tahoma;
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: .5;
+}
+.text{
+ -fx-font: 20px Tahoma;
+    -fx-fill: white;
+    -fx-stroke: black;
+    -fx-stroke-width: .5;
+}
